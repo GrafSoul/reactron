@@ -83,8 +83,9 @@ Made on the basis of repositories:
 [kitze/react-electron-example]  
 Thank you for the work done!
 
-&#169; 2020 | Reactron | GrafSoul
+&#169; 2020 | Reactron | GrafSoul | [MIT licensed].
 
+[mit licensed]: https://github.com/GrafSoul/reactron/blob/master/LICENSE
 [fkhadra/cra-electron]: https://github.com/fkhadra/cra-electron
 [kodeflex/electron-cra]: https://github.com/kodeflex/electron-cra
 [kitze/react-electron-example]: https://github.com/kitze/react-electron-example
