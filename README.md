@@ -37,35 +37,39 @@ yarn release
 ### React Router, Redux, Redux Thunk, React Bootstrap and other Dependencies
 
 ```
-"dependencies": {
-    "electron-is-dev": "^1.0.1",
-    "electron-log": "^2.2.17",
-    "electron-updater": "^4.0.6",
-    "electron-devtools-installer": "^2.2.4",
-    "node-notifier": "^5.3.0",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-redux": "^6.0.0",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.3",
-    "reactstrap": "^7.0.2",
-    "redux": "^4.0.1",
-    "redux-thunk": "^2.3.0"
-  }
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "electron-devtools-installer": "^3.2.0",
+    "electron-is-dev": "^2.0.0",
+    "electron-log": "^4.4.8",
+    "electron-updater": "^5.3.0",
+    "node-notifier": "^10.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "^5.0.1",
+    "reactstrap": "^9.1.8",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "web-vitals": "^2.1.4"
+  },
 ```
 
 ### Develop Dependencies
 
 ```
-"devDependencies": {
-    "concurrently": "^4.1.0",
-    "cross-env": "^5.2.0",
-    "electron": "^4.0.1",
-    "electron-builder": "^20.38.4",
-    "electron-debug": "^2.0.0",
-    "prettier": "^1.15.3",
-    "wait-on": "^3.2.0"
-  }
+  "devDependencies": {
+    "concurrently": "^8.0.1",
+    "cross-env": "^7.0.3",
+    "electron": "^24.0.0",
+    "electron-builder": "^23.6.0",
+    "electron-debug": "^3.2.0",
+    "prettier": "^2.8.7",
+    "wait-on": "^7.0.1"
+  },
 ```
 
 ### Create Icons Pack
@@ -83,7 +87,7 @@ Made on the basis of repositories:
 [kitze/react-electron-example]  
 Thank you for the work done!
 
-&#169; 2020 | Reactron | GrafSoul | [MIT licensed].
+&#169; 2023 | Reactron | GrafSoul | [MIT licensed].
 
 [mit licensed]: https://github.com/GrafSoul/reactron/blob/master/LICENSE
 [fkhadra/cra-electron]: https://github.com/fkhadra/cra-electron
